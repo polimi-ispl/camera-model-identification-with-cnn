@@ -1,6 +1,9 @@
 # Camera Model Identification with Convolutional Neural Networks #
 
-L. Bondi; L. Baroffio; D. Guera; P. Bestagini; E. J. Delp; S. Tubaro, "First Steps Towards Camera Model Identification with Convolutional Neural Networks," in IEEE Signal Processing Letters , vol.PP, no.99, pp.1-1
+## Publications ##
+- L. Bondi; L. Baroffio; D. Guera; P. Bestagini; E. J. Delp; S. Tubaro,
+"First Steps Towards Camera Model Identification with Convolutional Neural Networks"
+in IEEE Signal Processing Letters , vol.PP, no.99, pp.1-1.
 [Available at IEEE](http://ieeexplore.ieee.org/document/7786852/)
 
 
