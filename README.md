@@ -1,8 +1,8 @@
-# First Steps Towards Camera Model Identification with Convolutional Neural Networks #
+# Camera Model Identification with Convolutional Neural Networks #
 
-IEEE Signal Processing Letters ( Volume: PP, Issue: 99 )
-
+L. Bondi; L. Baroffio; D. Guera; P. Bestagini; E. J. Delp; S. Tubaro, "First Steps Towards Camera Model Identification with Convolutional Neural Networks," in IEEE Signal Processing Letters , vol.PP, no.99, pp.1-1
 [Available at IEEE](http://ieeexplore.ieee.org/document/7786852/)
+
 
 ## Requirements ##
 python2.7 with packages:
