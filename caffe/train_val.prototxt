@@ -30,7 +30,7 @@ layer {
   }
   data_param {
     source: "val_db"
-    batch_size: 1024
+    batch_size: 128
     backend: LMDB
   }
 }
